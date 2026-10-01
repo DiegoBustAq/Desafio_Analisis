@@ -1,0 +1,8 @@
+# ignorar todo
+*
+
+# Subir al repositorio
+!.gitignore
+!README.md
+!pyproject.toml
+!DesafioTecnico.ipynb 
